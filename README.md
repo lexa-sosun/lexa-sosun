@@ -6,17 +6,17 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=for-the-badge)
 ### *Немного фактов обо мне:*
-**Сейчас работаю над:** я не работаю
+- **Сейчас работаю над:** я не работаю
 
-**Где родился:** там и пригодился
+- **Где родился:** там и пригодился
 
-**Живу**: дома
+- **Живу**: дома
 
-**Силён в:** доме престарелых
+- **Силён в:** доме престарелых
 
-**Люблю:** твою маму
+- **Люблю:** твою маму
 
-**Ненавижу:** себя
+- **Ненавижу:** себя
 
 <br>
 <blockquote style="font-family: Comic Sans MS; color: #fff">Лучше 1 раз упасть, чем сто раз упасть...<br><div style="color: #aaa">- я забыл, кто сказал</div></blockquote>
