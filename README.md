@@ -1,4 +1,4 @@
-<h2 style="background-color: rgba(50, 50, 255, 0.15);">Ребята ребята это леха-сосун всем привет</h2>
+<h2>Ребята ребята это леха-сосун всем привет</h2>
 
 ### *Вроде умею писать:*
 ![Static Badge](https://img.shields.io/badge/HTML-green?style=for-the-badge)
@@ -19,4 +19,4 @@
 - **Ненавижу:** себя
 
 <br>
-<blockquote style="font-family: Comic Sans MS; color: #fff">Лучше 1 раз упасть, чем сто раз упасть...<br><div style="color: #aaa">- я забыл, кто сказал</div></blockquote>
+<blockquote>Лучше 1 раз упасть, чем сто раз упасть...<br><div>- я забыл, кто сказал</div></blockquote>
