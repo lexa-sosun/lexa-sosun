@@ -19,4 +19,4 @@
 - **Ненавижу:** себя
 
 <br>
-<blockquote style="font-family: Comic Sans MS;">Лучше 1 раз упасть, чем сто раз упасть...<br><div>- я забыл, кто сказал</div></blockquote>
+<blockquote>Лучше 1 раз упасть, чем сто раз упасть...<br><div>- я забыл, кто сказал</div></blockquote>
