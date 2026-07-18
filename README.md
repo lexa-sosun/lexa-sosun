@@ -16,5 +16,7 @@
 
 **Люблю:** твою маму
 
----
+**Ненавижу:** себя
+
+<br>
 <blockquote style="font-family: Comic Sans MS; color: #fff">Лучше 1 раз упасть, чем сто раз упасть...<br><div style="color: #aaa">- я забыл, кто сказал</div></blockquote>
