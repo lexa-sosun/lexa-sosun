@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
 ### *Немного фактов обо мне:*
 - **Сейчас работаю над:** я не работаю
 
